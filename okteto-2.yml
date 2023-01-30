@@ -1,0 +1,3 @@
+deploy:
+  - name: hello world from okteto-2.yml
+    command: echo hello world 2
